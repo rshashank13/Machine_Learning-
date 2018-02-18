@@ -1,4 +1,4 @@
-#K-Means Clustering
+K-Means Clustering
 
 This repo contains:
 1. K_means_model.py - contains model class
